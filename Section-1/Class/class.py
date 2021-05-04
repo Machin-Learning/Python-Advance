@@ -17,3 +17,6 @@ p2 = Product()
 print(p2.name)
 print(p2.description)
 print(p2.price)
+
+p3 = Product()
+print(p3.name)
