@@ -1,0 +1,2 @@
+hello this the file used for send and recv from an server
+Thanks to the python for this
